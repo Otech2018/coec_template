@@ -1,0 +1,238 @@
+[22-Jun-2023 10:16:09 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'phpmyadmin'@'localhost' (using password: YES) in /home/coeczied/public_html/inc/connect.php:20
+Stack trace:
+#0 /home/coeczied/public_html/inc/connect.php(20): PDO->__construct()
+#1 /home/coeczied/public_html/inc/connect.php(45): run_query->__construct()
+#2 /home/coeczied/public_html/admincoec/login.php(1): include('/home/coeczied/...')
+#3 {main}
+  thrown in /home/coeczied/public_html/inc/connect.php on line 20
+[22-Jun-2023 10:18:48 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:18:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:18:48 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:18:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:01 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:01 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:12 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:12 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:19 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:19 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:25 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:25 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:40 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:40 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:46 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:46 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:52 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:52 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:57 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:19:57 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:19:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:03 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:03 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:08 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:08 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:20 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:20 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:26 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:26 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:31 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:31 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:36 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:36 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:41 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:41 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:45 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:45 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:50 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:50 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:54 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:54 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:59 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:20:59 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:20:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:21:03 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:21:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:21:03 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:21:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:37:44 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:37:44 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:37:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:39:21 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:39:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 10:39:21 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 10:39:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:13:29 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:13:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:13:29 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:13:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:13:51 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:13:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:13:51 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:13:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:05 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:05 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:21 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:21 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:42 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[22-Jun-2023 11:14:42 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[22-Jun-2023 11:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[23-Jun-2023 17:26:05 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[23-Jun-2023 17:26:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[23-Jun-2023 17:26:05 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[23-Jun-2023 17:26:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[27-Jun-2023 09:28:40 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[27-Jun-2023 09:28:40 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/index.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[27-Jun-2023 10:29:06 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[27-Jun-2023 10:29:06 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/edit_team1.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[29-Jun-2023 04:09:03 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[29-Jun-2023 04:09:03 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[29-Jun-2023 08:34:18 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[29-Jun-2023 08:34:18 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/edit_project.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[29-Jun-2023 11:49:09 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:49:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:49:09 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:49:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:51:15 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:51:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:51:15 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:51:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:52:23 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:52:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:52:23 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:52:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:53:31 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:53:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 11:53:31 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 11:53:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 12:03:49 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 12:03:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 30
+[29-Jun-2023 12:03:49 America/New_York] PHP Warning:  Undefined array key "image" in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 12:03:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/coeczied/public_html/admincoec/inc/nav.php on line 31
+[29-Jun-2023 12:36:09 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[29-Jun-2023 12:36:09 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/index.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[30-Jun-2023 10:48:55 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[30-Jun-2023 10:48:55 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/edit_testmony.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[03-Jul-2023 12:03:49 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[03-Jul-2023 12:03:49 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[05-Jul-2023 13:47:21 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[05-Jul-2023 13:47:21 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/index.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[16-Jul-2023 17:33:04 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[16-Jul-2023 17:33:04 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[17-Jul-2023 01:03:02 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[17-Jul-2023 01:03:02 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[22-Dec-2023 03:53:07 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[22-Dec-2023 03:53:07 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[22-Dec-2023 05:30:35 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[22-Dec-2023 05:30:35 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/list.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
+[20-Jan-2024 01:11:32 America/New_York] PHP Warning:  Undefined array key "Admin_id" in /home/coeczied/public_html/admincoec/inc/nav.php on line 9
+[20-Jan-2024 01:11:32 America/New_York] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, bool given in /home/coeczied/public_html/admincoec/inc/nav.php:13
+Stack trace:
+#0 /home/coeczied/public_html/admincoec/inc/nav.php(13): extract()
+#1 /home/coeczied/public_html/admincoec/index.php(1): include('/home/coeczied/...')
+#2 {main}
+  thrown in /home/coeczied/public_html/admincoec/inc/nav.php on line 13
